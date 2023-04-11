@@ -1,1 +1,2 @@
 # terraform-azure
+This repository is my exercise code for freecodecamp.org course ["Learn Terraform with Azure by Building a Dev Environment – Full Course for Beginners"](https://www.youtube.com/watch?v=V53AHWun17s&t=2538s)
